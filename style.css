@@ -1559,6 +1559,12 @@ h2.home-blog-title {
   width: 100%;
   vertical-align: middle;
 }
+
+.hero .hero-inner a{
+  color: #fff;
+  text-decoration: none;
+}
+
 .hero .hero-inner .inner {
   max-width: 1400px;
   display: block;
